@@ -1,0 +1,201 @@
+body{
+    margin: 0;
+}
+.button-primary{
+    background-color: #ffb31a;
+    font-size: 18px;
+    line-height: 1.6;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+    border-color: #ffb31a;
+    height: 46px;
+    width: 144px;
+    color: #151516;
+}
+.inside-link{
+    text-decoration: none;
+    padding-left: 26px;
+    font-size: 18px;
+    position: relative;
+    text-transform: uppercase;
+    color: #151516;
+    font-weight: bold;
+}
+
+.collapse-side{
+    padding-left: 250px;
+}
+.second-section{
+    width: auto;
+    max-width: 1920px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+.page-title{
+    font-family: 'Sentinel Book';
+
+    font-weight: 300;
+    text-transform: capitalize;
+    font-size: 5vw;
+    padding-top: 2%;
+    margin-left: 18px;
+}
+
+.ts-lead{
+    padding-top: 7%;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Manrope Regular', sans-serif;
+    padding-left: 10px;
+    font-size: 7vh;
+
+    color: #151516;
+    font-weight: lighter;
+}
+.text-cs{
+    font-family: 'Manrope Regular', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    color: black;
+    padding-top: 7%;
+    font-size: 3vw;
+    text-align: center;
+}
+.row{
+    display: flex;
+}
+
+.paragraphs{
+    vertical-align: bottom;
+}
+.content-heading{
+    display: inline-block;
+    margin-left: 150px;
+}
+.span4{
+    display: inline-flex;
+}
+.image2{
+    width: 85%;
+    height: 85%;
+    padding-bottom: 20%; 
+    
+}
+.font-one{
+    font-family: 'Sentinel Semibold';
+    font-weight:bolder;
+    color: black;
+    font-size: 7vh;
+}
+.font-two{
+    font-size: 20px;
+    font-weight: lighter;
+}
+.part4{
+    width: auto;
+    height: 596px;
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  .flex-container {
+    display: flex;
+    flex-direction: row;
+    font-size: 30px;
+    text-align: center;
+  }
+  
+  .flex-item-left {
+    background-color: #f1f1f1;
+    padding: 10px;
+    flex: 50%;
+  }
+  
+  .flex-item-right {
+    background-color: #f1f1f1;
+    padding: 10px;
+    flex: 50%;
+  }
+  .container{
+    width: auto;
+  }
+  .section-title{
+    font-family: 'Sentinel Semibold';
+    font-weight: normal;
+    font-style: normal;
+    color: black;
+    font-size: 3vw;
+  }
+  .inline-text{
+    font-size: 3vw;
+    font-family: 'Sentinel Book';
+    display: inline-block;
+  }
+  .section-title{
+    margin: 5%;
+    padding-top: 5%;
+    font-family: 'Sentinel Semibold';
+    font-weight: bold;
+  }
+  .botton-c{
+    position: relative;
+    
+  }
+  .text-white{
+    font-size: 30px;
+    font-style: italic;
+    color: #ffff;
+    
+  }
+  .text-bottom{
+    text-decoration: none;
+    padding-left: 10px;
+    font-size: 25px;
+    color: #ffff;
+    padding-top: 27px;
+    font-weight: bold;
+  }
+  .head-text{
+    color: #ffff;
+  }
+  .bottom-text{
+    font-size: 20px;
+    color: #ffff;
+    padding-top: 27px;
+    font-weight: lighter;
+
+  }
+  .block{
+    font-family: 'Sentinel Semibold';
+    font-weight: bolder;
+    color: black;
+    font-size: 7vh;
+  }
+  .learn{
+    font-family: 'Manrope Bold';
+    font-size: 3vw;
+    text-decoration-color: #ffb31a;
+  }
+  #button{
+    margin: 25%;
+  }
+  .p-text{
+    font-size: 2vw;
+  }
+  .bottom-padding{
+    padding-top: 5%;
+  }
+  
+  
+  
+  
+
+  
+  
+
+
+
+
+
